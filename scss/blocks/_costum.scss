@@ -1,0 +1,87 @@
+.custom{
+  background-color:  #EEEEEE;
+  padding-bottom: 70px;
+}
+
+.custom__info{
+  background-color: #72BDA3;
+  padding: 88px 0;
+}
+
+.custom__title{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 41px;
+text-align: center;
+color: #011F3A;
+margin: 0;
+margin-bottom: 45px;
+}
+
+.costom__list{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.costom__item{
+  text-align: center;
+}
+
+.cost__link{
+  text-decoration: none;
+}
+
+.cost__title{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+letter-spacing: 0.36px;
+color: #011F3A;
+margin: 0;
+margin-top: 8px;
+margin-bottom: 8px;
+}
+
+.cost__text{
+  width: 197px;
+  margin: 0;
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+text-align: center;
+color: #3D5675;
+margin-left: auto;
+margin-right: auto;
+}
+
+.costom__wrap{
+  text-align: center;
+  margin-top: 85px;
+}
+
+.costom__link{
+  text-decoration: none;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+letter-spacing: 1.96px;
+text-transform: uppercase;
+color: #FFFFFF;
+padding: 13px 25px;
+background-color: #3D5675;
+border-radius: 44px;
+}
